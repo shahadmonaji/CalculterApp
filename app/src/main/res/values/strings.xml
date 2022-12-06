@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalculterApp</string>
+    <string name="result">Result= %s</string>
+</resources>
